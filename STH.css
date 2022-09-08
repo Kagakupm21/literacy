@@ -38,10 +38,11 @@ header .headline{
 .hidden_box .hidden_show {
     height: ;
     padding: 0;
+    color: red;
     overflow: hidden;
     opacity: 0;
     transition: 0.8s;
-  　color: red;
+  　
 }
 
 /*クリックで中身表示*/
