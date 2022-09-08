@@ -41,6 +41,7 @@ header .headline{
     overflow: hidden;
     opacity: 0;
     transition: 0.8s;
+  　color: red
 }
 
 /*クリックで中身表示*/
