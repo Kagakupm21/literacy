@@ -15,7 +15,7 @@ header .headline{
 
 /*ボタン装飾*/
 .hidden_box label {
-    padding: 15px;
+    padding: 10px;
     font-weight: bold;
     border: solid 2px black;
     cursor :pointer;
