@@ -19,7 +19,7 @@ header .headline{
 .hidden_box label {
     padding: 10px;
     font-weight: bold;
-    border: solid 2px black;
+    border: solid 1px black;
     cursor :pointer;
 }
 
