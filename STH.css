@@ -82,7 +82,7 @@ ol li:last-of-type {
     border: solid 1px black;
     background-color: #FFFFFF;
     cursor :pointer;
-  　border-radium:8px; 
+  　border-radius:8px;
 }
 
 /*ボタンホバー時*/
