@@ -33,6 +33,7 @@ ol {
   list-style-type: none!important; /*数字を一旦消す*/
   padding: 0.3em 0.8em;
   border: solid 2px #ffb107;
+  border-radius:9px;
 }
 ol li {
   border-bottom: dashed 1px orange;
@@ -79,8 +80,9 @@ ol li:last-of-type {
     padding: 20px;
     font-weight: bold;
     border: solid 1px black;
-     background-color: #FFFFFF;
+    background-color: #FFFFFF;
     cursor :pointer;
+  　border-radium:9px; /*一時的なもの*/
 }
 
 /*ボタンホバー時*/
