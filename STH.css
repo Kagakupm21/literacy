@@ -32,11 +32,11 @@ ol {
   counter-reset:number; /*数字をリセット*/
   list-style-type: none!important; /*数字を一旦消す*/
   padding: 0.3em 0.8em;
-  border: solid 2px #ffb107;
+  border: solid 2px #508dae;
   border-radius:9px;
 }
 ol li {
-  border-bottom: dashed 1px orange;
+  border-bottom: dashed 1px #2f8fb5;
   position: relative;
   padding: 0.5em 0.5em 0.5em 30px;
   line-height: 1.5em;
@@ -48,7 +48,7 @@ ol li:before{
   content: counter(number);
   /*数字のデザイン変える*/
   display:inline-block;
-  background: #ffb107;
+  background: #508dae;
   color: white;
   font-family: 'Avenir','Arial Black','Arial',sans-serif;
   font-weight:bold;
